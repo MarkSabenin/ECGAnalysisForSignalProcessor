@@ -1,0 +1,11 @@
+src/minOrMax.doj: ../src/minOrMax.c
+src/minOrMax.doj: ../src/minOrMax.h
+src/minOrMax.doj: ../src/rtwtypes.h
+src/minOrMax.doj: D:/CCES2.11/Blackfin/include/stdbool.h
+src/minOrMax.doj: D:/CCES2.11/Blackfin/include/yvals.h
+src/minOrMax.doj: D:/CCES2.11/Blackfin/include/stddef.h
+src/minOrMax.doj: D:/CCES2.11/Blackfin/include/stdlib.h
+src/minOrMax.doj: D:/CCES2.11/Blackfin/include/stdlib_bf.h
+src/minOrMax.doj: D:/CCES2.11/Blackfin/include/builtins.h
+src/minOrMax.doj: D:/CCES2.11/Blackfin/include/sys/builtins_support.h
+src/minOrMax.doj: ../src/rt_nonfinite.h

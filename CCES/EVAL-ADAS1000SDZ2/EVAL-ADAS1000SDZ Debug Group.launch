@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.analog.crosscore.debug.launch.CrossCoreGroupLaunchConfigurationType">
+<stringAttribute key="com.analog.crosscore.debug.debugModel.ATTR_DEFAULT_FAMILY" value="Blackfin"/>
+<stringAttribute key="com.analog.crosscore.debug.debugModel.ATTR_DEFAULT_PROCESSOR" value="ADSP-BF527"/>
+<stringAttribute key="com.analog.crosscore.debug.debugModel.ATTR_PROGRAM_NAME.0" value="Debug\EVAL-ADAS1000SDZ.dxe"/>
+<stringAttribute key="com.analog.crosscore.debug.debugModel.ATTR_PROJECT_CORE.0" value="0"/>
+<stringAttribute key="com.analog.crosscore.debug.debugModel.ATTR_PROJECT_NAME.0" value="EVAL-ADAS1000SDZ"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="EVAL-ADAS1000SDZ"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_ID_ATTR" value="blackfin.toolchain.configuration.debug.2097153078"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/EVAL-ADAS1000SDZ"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.debug.core.launchGroup.0.action" value="NONE"/>
+<booleanAttribute key="org.eclipse.debug.core.launchGroup.0.adoptIfRunning" value="false"/>
+<booleanAttribute key="org.eclipse.debug.core.launchGroup.0.enabled" value="true"/>
+<stringAttribute key="org.eclipse.debug.core.launchGroup.0.mode" value="inherit"/>
+<stringAttribute key="org.eclipse.debug.core.launchGroup.0.name" value="EVAL-ADAS1000SDZ Debug Group"/>
+<stringAttribute key="org.eclipse.debug.core.launchGroup.1.action" value="NONE"/>
+<booleanAttribute key="org.eclipse.debug.core.launchGroup.1.adoptIfRunning" value="false"/>
+<booleanAttribute key="org.eclipse.debug.core.launchGroup.1.enabled" value="true"/>
+<stringAttribute key="org.eclipse.debug.core.launchGroup.1.mode" value="run"/>
+<stringAttribute key="org.eclipse.debug.core.launchGroup.1.name" value="EVAL-ADAS1000SDZ Debug Group"/>
+<listAttribute key="org.eclipse.debug.ui.favoriteGroups">
+<listEntry value="org.eclipse.debug.ui.launchGroup.debug"/>
+<listEntry value="org.eclipse.debug.ui.launchGroup.run"/>
+</listAttribute>
+</launchConfiguration>

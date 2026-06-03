@@ -1,0 +1,12 @@
+src/ecg_predict_terminate.doj: ../src/ecg_predict_terminate.c
+src/ecg_predict_terminate.doj: ../src/ecg_predict_terminate.h
+src/ecg_predict_terminate.doj: ../src/rtwtypes.h
+src/ecg_predict_terminate.doj: D:/CCES2.11/Blackfin/include/stdbool.h
+src/ecg_predict_terminate.doj: D:/CCES2.11/Blackfin/include/yvals.h
+src/ecg_predict_terminate.doj: D:/CCES2.11/Blackfin/include/stddef.h
+src/ecg_predict_terminate.doj: D:/CCES2.11/Blackfin/include/stdlib.h
+src/ecg_predict_terminate.doj: D:/CCES2.11/Blackfin/include/stdlib_bf.h
+src/ecg_predict_terminate.doj: D:/CCES2.11/Blackfin/include/builtins.h
+src/ecg_predict_terminate.doj: D:/CCES2.11/Blackfin/include/sys/builtins_support.h
+src/ecg_predict_terminate.doj: ../src/ecg_predict_data.h
+src/ecg_predict_terminate.doj: ../src/rt_nonfinite.h
